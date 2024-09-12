@@ -1,7 +1,6 @@
 import React from 'react';
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import GradientBackground from '../components/GradientBackground';
-import CancelButton from '../components/CancelButton';
 
 const PrintInvoice = ({ navigation }: any) => {
     return (
